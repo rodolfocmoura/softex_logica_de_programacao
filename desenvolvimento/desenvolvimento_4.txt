@@ -1,0 +1,22 @@
+
+var nome = leia("Nome");
+var endereco = leia("Enredeço");
+var cidade = leia("Cidade");
+var cpf = leia("CPF");
+var rg = leia("RG");
+var idade = leia("Idade");
+var pai = leia("Nome do Pai");
+var mae = leia("Nome da Mãe");
+var peso = leia("Peso");
+var renda = leia("Renda Bruta");
+
+escreva("Nome: "+nome);
+escreva("Endereço: "+endereco);
+escreva("Cidade: "+cidade);
+escreva("CPF: "+cpf);
+escreva("RG: "+rg);
+escreva("Idade: "+idade);
+escreva("Nome do pai: "+pai);
+escreva("Nome da mãe: "+mae);
+escreva("Peso: "+peso);
+escreva("Renda Bruta: "+renda);
